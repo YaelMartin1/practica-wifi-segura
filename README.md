@@ -35,7 +35,7 @@ Se eligió este sitio porque está pensado para funcionar solo por HTTP, lo que 
 ## 3. Evidencia observada
 Captura de DevTools con la solicitud a neverssl.com
 
-*Figura 1. Pestaña Network de DevTools mostrando la primera solicitud al host `neverssl.com`.*
+*Pestaña Network de DevTools mostrando la primera solicitud al host `neverssl.com`.*
 
 **¿Qué protocolo utiliza el sitio?**
 El sitio utiliza **HTTP**, no HTTPS. Se nota porque la URL empieza con `http://` y el navegador la marca como "No seguro".
